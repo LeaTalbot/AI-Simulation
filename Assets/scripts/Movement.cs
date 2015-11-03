@@ -5,11 +5,12 @@ public class Movement : MonoBehaviour {
 
 
 	public Rigidbody rbody; 
+	public float moveSpeed = 10f; 
 
 
 	void FixedUpdate () {
 
-		rbody.velocity = transform.forward * 10f + Physics.gravity;  
+		rbody.velocity = transform.forward * moveSpeed + Physics.gravity;  
 
 		Ray moveRay = new Ray (transform.position, transform.forward);
 
