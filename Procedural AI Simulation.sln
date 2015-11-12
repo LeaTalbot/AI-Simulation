@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{1AF675B8-413D-8D68-3663-BD487CAE4775}") = "AI Simulation", "Assembly-CSharp.csproj", "{3A29D883-29CF-D047-30F3-87A6FCEF582D}"
+Project("{2FF3469C-E8DE-C295-2499-D08343567836}") = "Procedural AI Simulation", "Assembly-CSharp.csproj", "{99B44075-5FCA-B91D-5246-0A0C2CC1ADF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A29D883-29CF-D047-30F3-87A6FCEF582D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A29D883-29CF-D047-30F3-87A6FCEF582D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A29D883-29CF-D047-30F3-87A6FCEF582D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A29D883-29CF-D047-30F3-87A6FCEF582D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B44075-5FCA-B91D-5246-0A0C2CC1ADF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B44075-5FCA-B91D-5246-0A0C2CC1ADF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B44075-5FCA-B91D-5246-0A0C2CC1ADF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B44075-5FCA-B91D-5246-0A0C2CC1ADF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-															GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
